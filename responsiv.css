@@ -1,0 +1,40 @@
+@media (max-width: 768px) {
+  main {
+    width: 90%;
+    display: block;
+    margin: 30px 5%;
+  }
+  .step-box {
+    width: 100%;
+    margin: 20px auto;
+  }
+  .step-img1 {
+    height: 150px;
+    background-image: url(chapter10_exercise/img/flow01.png);
+  }
+  .step-img2 {
+    height: 150px;
+    background-image: url(chapter10_exercise/img/flow02.png);
+  }
+  .step-img3 {
+    height: 150px;
+    background-image: url(chapter10_exercise/img/flow03.png);
+  }
+}
+/* @media (max-width: 425px) {
+  header {
+    width: 100%;
+  }
+  main {
+    width: 100%;
+    display: block;
+    margin: 40px auto;
+  }
+  .step-box {
+    width: 100%;
+    margin: 10px auto;
+  }
+  footer {
+    width: 100%;
+  }
+} */
